@@ -4,16 +4,16 @@
 
 ------
 
-
 ```
 👋 Olá, Seja bem vindo
 
 ```
 
-
 ## Qualificações
-<p align="center" height="200">
+<p align="center">
+<code>
 <img src="https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=%23fff&color=%233776AB"/>
 <img src="https://img.shields.io/badge/typescript-typescript?style=for-the-badge&logo=tsnode&logoColor=%23fff&color=%233178C6"/>
 <img src="https://img.shields.io/badge/react-react?style=for-the-badge&logo=react&logoColor=%23000&color=%2361dAFB"/>
+</code>
 </p>
